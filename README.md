@@ -119,8 +119,8 @@ SolvAqua solves the problem of slow, untracked, and disconnected water issue rep
 ## 🧱 Tech Stack (MVP)
 
 - Frontend: React / Next.js (PWA)
-- Backend: Node.js + Express
-- Database: MongoDB
+- Backend: Python + Django
+- Database: Postgres
 - Messaging: SMS Gateway + Push Notifications
 - USSD: Telco Gateway integration
 
